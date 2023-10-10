@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://subhranshu.netlify.app/Image/pic.jpg" alt="Subhranshu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhranShu2332&label=Profile%20views&color=0e75b6&style=flat" alt="Subhranshu" /> </p>
 
 - 🌱 I’m currently learning **Django**
 
