@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [harshkportfolio.onrender.com](https://harshkportfolio.onrender.com/)
+
 
 - 💬 Ask me about **Python**
 
