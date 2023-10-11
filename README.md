@@ -8,7 +8,7 @@
 
 
 
-- 💬 Ask me about **Python**
+-  **Python** is ❤️
 
 - 📫 How to reach me **whiteunicorn1947@gmail.com**
 
