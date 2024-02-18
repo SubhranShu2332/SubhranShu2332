@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhranshu</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
-<img align="right" alt="Coding" width="340" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 - 🌱 I’m currently learning **MERN**
